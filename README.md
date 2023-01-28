@@ -1,2 +1,2 @@
 # cloud-shell-gcp
-Repositório imagens cloug-shell no GCP
+Repositório imagens Cloud Shell no GCP
